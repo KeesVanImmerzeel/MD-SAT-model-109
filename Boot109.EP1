@@ -1,0 +1,18 @@
+************* EParray[ 1 ]: TestFile **********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 1           rows, columns UITVOERTIJDSTIPPEN (jr)
+0 2 3 4 5
+4             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             LgP: Landgebruik (1-4: 1=akkerbouw; 2=bos; 3=gras; 4=natuur)
+0 3
+0             table 1: table-type 0 (no interpolation)
+1             Bd: BodemType/soort (1010 - 22020)
+0 4160
+0             table 2: table-type 0 (no interpolation)
+1             Scm: nummer vh. gehanteerd spuitschema (1-10)
+0 1
+0             table 3: table-type 0 (no interpolation)
+1             CalcType (Clt): (0=av, 1=min, 2=max)
+0 1
